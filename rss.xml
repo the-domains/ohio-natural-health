@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ohio Natural Health]]></title>
         <description><![CDATA[Ohio Natural Health]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ohio-natural-health/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 16:27:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 16:41:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ohio-natural-health/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Navigate the Produce Section Like a Nutrition Pro]]></title>
+            <description><![CDATA[<article><h1>How to Navigate the Produce Section Like a Nutrition Pro</h1><p>Going to the supermarket each week to stock up on produce is both challenging and thrilling at the same time, or at least it is for healthy eaters or those on a quest to make healthier choices. So much color, so many different prices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b5a3d18bacd23d2be2cb694c43c7417c5c6309e.jpg"></article>]]></description>
+            <link>http://www.onegreenplanet.org/natural-health/how-to-navigate-the-produce-section-like-a-nutrition-pro/</link>
+            <guid isPermaLink="false">b69edf16-17c8-4e44-b8c6-0b9c5481f894</guid>
+            <pubDate>Tue, 01 Mar 2016 16:41:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cooked]]></title>
-            <description><![CDATA[<h1>Cooked</h1>]]></description>
-            <link>undefinedcooked/index.html</link>
+            <description><![CDATA[<article><h1>Cooked</h1><p>I've started watching the Netflix show Cooked. It's amazing how we can continue to explore the world of food and how far away from the origins of cooking the American diet has gone. It has brought up some new concepts in diet/lifestyle management that I find very interesting. They interviewed Harry Balzer, vice president of The NPD Group and national expert on food and diet trends and he presented a very exciting concept. He talked about how if you want pie, ice cream, cookies, etc., eat as much as you want, but make them from scratch. The idea is, if you cook it yourself, you are more likely to buy top quality ingredients and studies show you will eat less. I know when I cook, I buy the best ingredients I can afford and likely eat less than when I order in. This idea can revolutionize someone's attitude towards food and bring us back to being a culture that cooks food rather than one that reheats food. </p></article>]]></description>
+            <link>https://thegrid.ai/ohio-natural-health/cooked/index.html</link>
             <guid isPermaLink="false">9e47eb4b-a412-42a1-a641-8ea00aba4e34</guid>
             <pubDate>Tue, 01 Mar 2016 16:27:44 GMT</pubDate>
         </item>
