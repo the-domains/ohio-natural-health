@@ -6,12 +6,12 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.421875
+  brandStrength: 0.139802
   lightness: 0.424342
   rhythmicContrast: 0.38987
   saturation: 0.771381
 cta: {}
-layout_spectrum: 0.288651
+layout_spectrum: 0.47944
 name: Ohio Natural Health
 opengraph: {}
 purpose: []
