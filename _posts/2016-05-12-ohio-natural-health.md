@@ -16,14 +16,15 @@ keywords:
   - diets
   - vitamin
 description: 'Naturopathic Wellness and Traditional Chinese Medicine in the Greater Cleveland, Ohio region'
-datePublished: '2016-05-12T17:06:13.159Z'
-dateModified: '2016-05-12T17:05:49.269Z'
+datePublished: '2016-05-12T17:09:08.842Z'
+dateModified: '2016-05-12T17:06:17.005Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
 title: Ohio Natural Health
+sourcePath: _posts/2016-05-12-ohio-natural-health.md
 authors: []
 publisher:
   name: Ohio Natural Health
@@ -31,7 +32,6 @@ publisher:
   url: 'http://ohionaturalhealth.com'
   favicon: 'http://ohionaturalhealth.com/favicon.ico'
 starred: true
-sourcePath: _posts/2016-05-12-ohio-natural-health.md
 _context: 'http://schema.org'
 _type: MediaObject
 
