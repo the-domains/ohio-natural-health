@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Ohio Natural Health]]></title>
         <description><![CDATA[Ohio Natural Health]]></description>
-        <link>https://thegrid.ai/ohio-natural-health/</link>
+        <link>http://blog.ohionaturalhealth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 15:45:11 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ohio-natural-health/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 17:06:15 GMT</lastBuildDate>
+        <atom:link href="http://blog.ohionaturalhealth.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ohio Natural Health]]></title>
+            <description><![CDATA[<article><h1>Ohio Natural Health</h1><p>Naturopathic Wellness and Traditional Chinese Medicine in the Greater Cleveland, Ohio region</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f0e3f3f-6987-44b9-8ab7-a197da2626ff.jpg"></article>]]></description>
+            <link>http://ohionaturalhealth.com/</link>
+            <guid isPermaLink="false">11f044bc-a9c4-4f96-8538-043fae1e2173</guid>
+            <pubDate>Thu, 12 May 2016 17:06:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The art of acupuncture in photography]]></title>
             <description><![CDATA[<article><h1>The art of acupuncture in photography</h1><p>What happens when a photographer combines creative forces with a licensed acupuncturist? When medical procedures have long been displayed primarily in just clinical forms of photography, rather than artistic, would it be possible to visually show the peaceful nature and energy flow of the healing art of acupuncture?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d5ef71e2d18916d18c6a62411756b47099c2812.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.lifehack.org/363786/doctors-agree-hiking-good-for-your-mental-health</link>
             <guid isPermaLink="false">1b76c52f-66eb-499c-8e3d-9274cac28d30</guid>
             <pubDate>Mon, 25 Apr 2016 17:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Navigate the Produce Section Like a Nutrition Pro]]></title>
-            <description><![CDATA[<article><h1>How to Navigate the Produce Section Like a Nutrition Pro</h1><p>Going to the supermarket each week to stock up on produce is both challenging and thrilling at the same time, or at least it is for healthy eaters or those on a quest to make healthier choices. So much color, so many different prices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b5a3d18bacd23d2be2cb694c43c7417c5c6309e.jpg"></article>]]></description>
-            <link>http://www.onegreenplanet.org/natural-health/how-to-navigate-the-produce-section-like-a-nutrition-pro/</link>
-            <guid isPermaLink="false">b69edf16-17c8-4e44-b8c6-0b9c5481f894</guid>
-            <pubDate>Tue, 01 Mar 2016 16:41:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
