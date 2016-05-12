@@ -15,9 +15,9 @@ keywords:
   - formula
   - diets
   - vitamin
-description: 'Naturopathic Wellness and Traditional Chinese Medicine in the Greater Cleveland, Ohio region'
-datePublished: '2016-05-12T17:09:08.842Z'
-dateModified: '2016-05-12T17:06:17.005Z'
+description: 'Naturopathic, Acupuncture, and Traditional Chinese Medicine provider serving the greater Cleveland Ohio area.'
+datePublished: '2016-05-12T17:16:14.406Z'
+dateModified: '2016-05-12T17:11:51.736Z'
 author:
   - name: ''
     url: ''
@@ -36,4 +36,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Naturopathic Wellness and Traditional Chinese Medicine in the Greater Cleveland, Ohio region](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f0e3f3f-6987-44b9-8ab7-a197da2626ff.jpg)
+![Naturopathic, Acupuncture, and Traditional Chinese Medicine provider serving the greater Cleveland Ohio area.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f0e3f3f-6987-44b9-8ab7-a197da2626ff.jpg)
