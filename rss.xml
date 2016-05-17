@@ -4,7 +4,7 @@
         <description><![CDATA[Ohio Natural Health]]></description>
         <link>http://blog.ohionaturalhealth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 18:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 18:10:29 GMT</lastBuildDate>
         <atom:link href="http://blog.ohionaturalhealth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ohio Natural Health]]></title>
@@ -15,9 +15,16 @@
         </item>
         <item>
             <title><![CDATA[Chair yoga gives seniors' health a lift]]></title>
-            <description><![CDATA[<article><h1>Chair yoga gives seniors' health a lift</h1><p>DALLAS -- A yoga class is the last place Ronnie Weiss would expect you to find him. "I started out just driving my wife here and always thought of yoga as a lightweight, feminine-type thing," said Weiss, 85. After problems with his hands, feet, and hips, Weiss gave it a shot.</p><img src="http://content.wfaa.com/photo/2016/05/13/0513%20chair%20yoga_1463176712266_2275720_ver1.0.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Chair yoga gives seniors' health a lift</h1><p>DALLAS -- A yoga class is the last place Ronnie Weiss would expect you to find him. "I started out just driving my wife here and always thought of yoga as a lightweight, feminine-type thing," said Weiss, 85. After problems with his hands, feet, and hips, Weiss gave it a shot.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9c29fdf03c0a5938b8f684db24367dadbfe2045.jpg"></article>]]></description>
             <link>http://www.wfaa.com/news/health/chair-yoga-gives-seniors-health-a-lift/190613700</link>
             <guid isPermaLink="false">5c0f699f-3409-4ade-ad3a-68d68f5bff1e</guid>
+            <pubDate>Tue, 17 May 2016 18:06:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Good fat,' low cholesterol, may actually be bad for you]]></title>
+            <description><![CDATA[<article><h1>'Good fat,' low cholesterol, may actually be bad for you</h1><p>Just about every diet recommends reducing saturated fats, such as butter and cheese, and replacing them with unsaturated fats, such as vegetable oil and fatty fish. The 2015 dietary guidelines advise limiting saturated fats to no more than 10% of daily calories.</p><img src="http://i2.cdn.turner.com/cnnnext/dam/assets/131107172427-french-fries-trans-fat-horizontal-large-gallery.jpg"></article>]]></description>
+            <link>http://www.cnn.com/2016/04/12/health/vegetable-oil-heart-health-cholesterol-saturated-fats/?iid=ob_homepage_10-test_featured_pool</link>
+            <guid isPermaLink="false">470c6cfa-7607-4c4e-9312-bc8f012835f5</guid>
             <pubDate>Tue, 17 May 2016 18:06:03 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.express.co.uk/life-style/health/665246/Herbs-healing-properties-peppermint-rosemary-memory-sage-camomile-thyme-comfrey</link>
             <guid isPermaLink="false">3affacd4-af1c-43cd-955f-dc4a4f8e2657</guid>
             <pubDate>Fri, 29 Apr 2016 19:46:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Green space: A natural high]]></title>
-            <description><![CDATA[<article><h1>Green space: A natural high</h1><p>Exposure to nature makes people happy and could cut mental-health inequalities between the rich and poor.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca1254d6e6ca0ec72a103dab8df7fe49011a5ac9.jpg"></article>]]></description>
-            <link>http://www.nature.com/nature/journal/v531/n7594_supp/full/531S56a.html</link>
-            <guid isPermaLink="false">d724e938-913b-46b7-bfe2-f6ead18ce5be</guid>
-            <pubDate>Fri, 29 Apr 2016 18:50:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
