@@ -4,7 +4,7 @@
         <description><![CDATA[Ohio Natural Health]]></description>
         <link>http://blog.ohionaturalhealth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 21:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 17:43:43 GMT</lastBuildDate>
         <atom:link href="http://blog.ohionaturalhealth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ohio Natural Health]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 12 May 2016 17:16:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ask Well: The Downside of Smoothies]]></title>
+            <description><![CDATA[<article><h1>Ask Well: The Downside of Smoothies</h1><p>Do I absorb more sugar and calories when I drink fruits and vegetables in a smoothie as opposed to just eating them whole? Answer: It's very likely that you are getting more calories and sugar when you drink a smoothie than when eating whole fruits or vegetables, said Sarah B.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cbad7051d01f0edddd0a6ab75c754c21e54296c.jpg"></article>]]></description>
+            <link>http://mobile.nytimes.com/blogs/well/2016/05/13/ask-well-the-downside-of-smoothies/?2016-MAY-FB-WELLTEST-AUD_DEV-0512-0531&amp;WT.mc_ev=click&amp;ad-keywords=AUDDEVREMARK&amp;_r=0&amp;referer=https://m.facebook.com/</link>
+            <guid isPermaLink="false">166b0c02-c5e8-4e7f-a1c5-8abf527c0181</guid>
+            <pubDate>Tue, 24 May 2016 17:43:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Changing American Diet]]></title>
-            <description><![CDATA[<article><h1>The Changing American Diet</h1><p>See what we ate on an average day, for the past several decades. After seeing the Open Data Institute's project on the changing British Diet, I couldn't help but wonder how the American diet has changed over the years. The United States Department of Agriculture keeps track of these sort of things through the Food Availability Data System.</p><img src="http://i1.wp.com/flowingdata.com/wp-content/uploads/2016/05/The-Changing-American-Diet.png?fit=1800%2C900"></article>]]></description>
+            <description><![CDATA[<article><h1>The Changing American Diet</h1><p>See what we ate on an average day, for the past several decades. After seeing the Open Data Institute's project on the changing British Diet, I couldn't help but wonder how the American diet has changed over the years. The United States Department of Agriculture keeps track of these sort of things through the Food Availability Data System.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13088e006fea9ef40d2111083cec2d881efc7c56.png"></article>]]></description>
             <link>http://flowingdata.com/2016/05/17/the-changing-american-diet/</link>
             <guid isPermaLink="false">8cd60e59-e986-44de-82b5-26ff3a65afc6</guid>
             <pubDate>Sat, 21 May 2016 21:20:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://ndnr.com/dermatology/topical-use-of-castor-oil/</link>
             <guid isPermaLink="false">dd97ed97-2203-466c-a4be-8605f046bca9</guid>
             <pubDate>Wed, 04 May 2016 03:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your Body on Acupuncture]]></title>
-            <description><![CDATA[<article><h1>Your Body on Acupuncture</h1><p>Who would have guessed a tiny needle (or 12) could be such a boon to your well-being? Here are 10 research-backed ways the ancient practice of Acupuncture improves your health from head to toe&#82...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0c16bb2e57ceead2af7abcdc05ea820dcf91949.jpg"></article>]]></description>
-            <link>https://wallstreetpainrelief.com/2015/10/30/your-body-on-acupuncture/</link>
-            <guid isPermaLink="false">fd9deca9-fda3-4c29-a89f-0da6331c50c1</guid>
-            <pubDate>Wed, 04 May 2016 03:17:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
