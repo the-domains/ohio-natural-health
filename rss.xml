@@ -4,7 +4,7 @@
         <description><![CDATA[Ohio Natural Health]]></description>
         <link>http://blog.ohionaturalhealth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 10:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 16:49:02 GMT</lastBuildDate>
         <atom:link href="http://blog.ohionaturalhealth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ohio Natural Health]]></title>
@@ -12,6 +12,13 @@
             <link>http://ohionaturalhealth.com/</link>
             <guid isPermaLink="false">11f044bc-a9c4-4f96-8538-043fae1e2173</guid>
             <pubDate>Thu, 12 May 2016 17:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good fats can cut risk of death by 27%]]></title>
+            <description><![CDATA[<article><h1>Good fats can cut risk of death by 27%</h1><p>The silver lining? You can reverse some of that risk by making healthier fat choices. "This study is by far the most detailed and powerful examination of the relationship between different types of dietary fats and mortality," said Dr. Frank B. Hu, professor of nutrition and epidemiology at the Harvard T.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/13f94c87dee94485cb8c17c1827b38f7/noop.jpg?input=http%3A%2F%2Fi2.cdn.turner.com%2Fcnnnext%2Fdam%2Fassets%2F120404032801-superfoods-broccoli-horizontal-large-gallery.jpg"></article>]]></description>
+            <link>http://www.cnn.com/2016/07/05/health/good-fats-reduce-risk-of-death/?iid=ob_homepage_10-test_featured_pool</link>
+            <guid isPermaLink="false">f359e0db-e1f3-4f4d-a7c3-7b8157b169ab</guid>
+            <pubDate>Thu, 07 Jul 2016 16:48:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Tongue Is a Map of the Body in Chinese Medicine]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.lifehack.org/345771/36-pictures-see-which-muscle-youre-stretching?ref=fbp&amp;n=1</link>
             <guid isPermaLink="false">178afa26-5893-48c1-bd37-9a6112ddf38e</guid>
             <pubDate>Fri, 20 May 2016 21:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chair yoga gives seniors' health a lift]]></title>
-            <description><![CDATA[<article><h1>Chair yoga gives seniors' health a lift</h1><p>DALLAS -- A yoga class is the last place Ronnie Weiss would expect you to find him. "I started out just driving my wife here and always thought of yoga as a lightweight, feminine-type thing," said Weiss, 85. After problems with his hands, feet, and hips, Weiss gave it a shot.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9c29fdf03c0a5938b8f684db24367dadbfe2045.jpg"></article>]]></description>
-            <link>http://www.wfaa.com/news/health/chair-yoga-gives-seniors-health-a-lift/190613700</link>
-            <guid isPermaLink="false">5c0f699f-3409-4ade-ad3a-68d68f5bff1e</guid>
-            <pubDate>Tue, 17 May 2016 18:06:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
