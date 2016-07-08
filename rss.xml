@@ -4,7 +4,7 @@
         <description><![CDATA[Ohio Natural Health]]></description>
         <link>http://blog.ohionaturalhealth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 16:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 13:56:22 GMT</lastBuildDate>
         <atom:link href="http://blog.ohionaturalhealth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ohio Natural Health]]></title>
@@ -12,6 +12,13 @@
             <link>http://ohionaturalhealth.com/</link>
             <guid isPermaLink="false">11f044bc-a9c4-4f96-8538-043fae1e2173</guid>
             <pubDate>Thu, 12 May 2016 17:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[F.D.A. Finishes Food Labels for How We Eat Now]]></title>
+            <description><![CDATA[<article><h1>F.D.A. Finishes Food Labels for How We Eat Now</h1><p>WASHINGTON - Major changes to nutrition labels on food packages became final on Friday, with calorie counts now shown in large type and portion sizes that reflect how much Americans actually eat. It was the first significant redrawing of the nutrition information on food labels since the federal government started requiring them in the early 1990s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/684388312977c5403cdf7113ce30fd11978db4e7.jpg"></article>]]></description>
+            <link>http://mobile.nytimes.com/2016/05/21/health/fda-nutrition-labels.html?_r=0&amp;referer=</link>
+            <guid isPermaLink="false">c5954474-da60-4e4e-9830-5655bd5dd2ac</guid>
+            <pubDate>Fri, 08 Jul 2016 13:56:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Good fats can cut risk of death by 27%]]></title>
@@ -68,13 +75,6 @@
             <link>http://flowingdata.com/2016/05/17/the-changing-american-diet/</link>
             <guid isPermaLink="false">8cd60e59-e986-44de-82b5-26ff3a65afc6</guid>
             <pubDate>Sat, 21 May 2016 21:20:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[36 Pictures To See Which Muscle You're Stretching]]></title>
-            <description><![CDATA[<article><h1>36 Pictures To See Which Muscle You're Stretching</h1><p>Whether you're a chronic sitter, a daily exerciser, or a weekend warrior, you probably know stretching is a critical habit. By sending blood flow to your muscles and helping your joints move through their full range of motion, stretching improves your posture and athletic performance while lowering your risk of pain and injury.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13000ec93b07943e73606511753b27e45b7fbda4.jpg"></article>]]></description>
-            <link>http://www.lifehack.org/345771/36-pictures-see-which-muscle-youre-stretching?ref=fbp&amp;n=1</link>
-            <guid isPermaLink="false">178afa26-5893-48c1-bd37-9a6112ddf38e</guid>
-            <pubDate>Fri, 20 May 2016 21:39:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
