@@ -1,7 +1,7 @@
 name: Ohio Natural Health
 favicon: null
-layout_spectrum: 0.74218
-typography_spectrum: 0.487664
+layout_spectrum: 0.2657025051303208
+typography_spectrum: 0.8163683847524226
 title: Ohio Natural Health
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.0625
-  lightness: 1
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  brandStrength: 0.05243085324764252
+  lightness: 0.5230663192924112
+  saturation: 0.7146499673835933
+  rhythmicContrast: 0.20020725904032588
 purpose: []
