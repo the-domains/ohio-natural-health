@@ -4,7 +4,7 @@
         <description><![CDATA[Ohio Natural Health]]></description>
         <link>http://blog.ohionaturalhealth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 13:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 10:42:56 GMT</lastBuildDate>
         <atom:link href="http://blog.ohionaturalhealth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ohio Natural Health]]></title>
@@ -12,6 +12,20 @@
             <link>http://ohionaturalhealth.com/</link>
             <guid isPermaLink="false">11f044bc-a9c4-4f96-8538-043fae1e2173</guid>
             <pubDate>Thu, 12 May 2016 17:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turmeric Lattes Are the Hottest and Coolest New Way to Start Your Day]]></title>
+            <description><![CDATA[<article><h1>Turmeric Lattes Are the Hottest and Coolest New Way to Start Your Day</h1><p>What if you could swap your morning caffeine for something that would jump-start your day, but in a less jumpy way? Enter the turmeric latte, a milk steamer made not with coffee but with the ancient antioxidant and anti-inflammatory superfood root that's lately been taking the world by storm.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/caa78b6e05a06b2143ef5b9128b43bbc/noop.jpg?input=http%3A%2F%2Fwww.bravotv.com%2Fsites%2Fnbcubravotv%2Ffiles%2Ffield_blog_image%2F2016%2F06%2Fthe-feast-tumeric-latte-promote.jpg"></article>]]></description>
+            <link>http://www.bravotv.com/blogs/turmeric-latte-trend-at-la-marzocco-cafe-gratitude-sajen-jamu</link>
+            <guid isPermaLink="false">21832cac-2f90-46fb-8674-5b7471f021e3</guid>
+            <pubDate>Tue, 12 Jul 2016 10:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dose of nature is just what the doctor ordered]]></title>
+            <description><![CDATA[<article><h1>Dose of nature is just what the doctor ordered</h1><p>People who visit parks for 30 minutes or more each week are much less likely to have high blood pressure or poor mental health than those who don't, according to new research by Australian and UK environmental scientists.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ade5d35732b4b2ee97ef35cbec5ed07/noop.jpg?input=http%3A%2F%2Fimg.medicalxpress.com%2Fnewman%2Fgfx%2Fnews%2Fhires%2F2016%2Fdoseofnature.jpg"></article>]]></description>
+            <link>http://medicalxpress.com/news/2016-06-dose-nature-doctor.html</link>
+            <guid isPermaLink="false">8c5408aa-4054-493c-9b27-e3538c457304</guid>
+            <pubDate>Fri, 08 Jul 2016 13:58:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[F.D.A. Finishes Food Labels for How We Eat Now]]></title>
@@ -61,20 +75,6 @@
             <link>http://www.fitnessmagazine.com/mind-body/supplements/vitamin/shopping-for-a-supplement/</link>
             <guid isPermaLink="false">f30727c7-5858-4e95-b891-8ce5375409b2</guid>
             <pubDate>Wed, 01 Jun 2016 13:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ask Well: The Downside of Smoothies]]></title>
-            <description><![CDATA[<article><h1>Ask Well: The Downside of Smoothies</h1><p>Do I absorb more sugar and calories when I drink fruits and vegetables in a smoothie as opposed to just eating them whole? Answer: It's very likely that you are getting more calories and sugar when you drink a smoothie than when eating whole fruits or vegetables, said Sarah B.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cbad7051d01f0edddd0a6ab75c754c21e54296c.jpg"></article>]]></description>
-            <link>http://mobile.nytimes.com/blogs/well/2016/05/13/ask-well-the-downside-of-smoothies/?2016-MAY-FB-WELLTEST-AUD_DEV-0512-0531&amp;WT.mc_ev=click&amp;ad-keywords=AUDDEVREMARK&amp;_r=0&amp;referer=https://m.facebook.com/</link>
-            <guid isPermaLink="false">166b0c02-c5e8-4e7f-a1c5-8abf527c0181</guid>
-            <pubDate>Tue, 24 May 2016 17:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Changing American Diet]]></title>
-            <description><![CDATA[<article><h1>The Changing American Diet</h1><p>See what we ate on an average day, for the past several decades. After seeing the Open Data Institute's project on the changing British Diet, I couldn't help but wonder how the American diet has changed over the years. The United States Department of Agriculture keeps track of these sort of things through the Food Availability Data System.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13088e006fea9ef40d2111083cec2d881efc7c56.png"></article>]]></description>
-            <link>http://flowingdata.com/2016/05/17/the-changing-american-diet/</link>
-            <guid isPermaLink="false">8cd60e59-e986-44de-82b5-26ff3a65afc6</guid>
-            <pubDate>Sat, 21 May 2016 21:20:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
