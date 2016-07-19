@@ -32,6 +32,10 @@ navigation:
     url: 'http://ohionaturalhealth.com'
     name: My Website
     type: external
+  - id: 'http://ohionaturalhealth.com/about/'
+    url: 'http://ohionaturalhealth.com/about/'
+    name: About me
+    type: external
 favicon: null
 title: Ohio Natural Health
 purpose: []
