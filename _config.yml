@@ -27,10 +27,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About me
-    url: 'http://ohionaturalhealth.com/about/'
-    type: external
+navigation: []
 favicon: null
 title: Ohio Natural Health
 purpose: []
