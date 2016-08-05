@@ -28,13 +28,8 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 'http://ohionaturalhealth.com'
-    url: 'http://ohionaturalhealth.com'
-    name: My Website
-    type: external
-  - id: 'http://ohionaturalhealth.com/about/'
+  - name: About me
     url: 'http://ohionaturalhealth.com/about/'
-    name: About me
     type: external
 favicon: null
 title: Ohio Natural Health
