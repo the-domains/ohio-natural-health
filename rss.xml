@@ -4,7 +4,7 @@
         <description><![CDATA[Ohio Natural Health]]></description>
         <link>http://blog.ohionaturalhealth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 17:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 15:37:16 GMT</lastBuildDate>
         <atom:link href="http://blog.ohionaturalhealth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ohio Natural Health]]></title>
@@ -12,6 +12,13 @@
             <link>http://ohionaturalhealth.com/</link>
             <guid isPermaLink="false">11f044bc-a9c4-4f96-8538-043fae1e2173</guid>
             <pubDate>Thu, 12 May 2016 17:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wrestling with Slander]]></title>
+            <description><![CDATA[<article><h1>Wrestling with Slander</h1><p>Jeff Clark, ND You may have noticed in 1 or more recent online articles that an effort seems to be in play to categorically discredit licensed naturopathic doctors. The public detractors are a tiny group of zealots who promote "science-based medicine" with a kind of religious fervor.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b71ebb973c40afb4f9963d0a47f26f73/noop.jpg?input=http%3A%2F%2Fndnr.com%2Fwp-content%2Fuploads%2F2016%2F08%2FClark_Aug_2016_Figure_trutharrows-1024x723.jpg"></article>]]></description>
+            <link>http://ndnr.com/botanical-medicine/wrestling-with-slander/</link>
+            <guid isPermaLink="false">a2d929d7-8fea-4210-a9b2-3086b24ee64f</guid>
+            <pubDate>Mon, 08 Aug 2016 15:37:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fish Oil May Improve Post-MI Recovery]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bravotv.com/blogs/turmeric-latte-trend-at-la-marzocco-cafe-gratitude-sajen-jamu</link>
             <guid isPermaLink="false">21832cac-2f90-46fb-8674-5b7471f021e3</guid>
             <pubDate>Tue, 12 Jul 2016 10:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dose of nature is just what the doctor ordered]]></title>
-            <description><![CDATA[<article><h1>Dose of nature is just what the doctor ordered</h1><p>People who visit parks for 30 minutes or more each week are much less likely to have high blood pressure or poor mental health than those who don't, according to new research by Australian and UK environmental scientists.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ade5d35732b4b2ee97ef35cbec5ed07/noop.jpg?input=http%3A%2F%2Fimg.medicalxpress.com%2Fnewman%2Fgfx%2Fnews%2Fhires%2F2016%2Fdoseofnature.jpg"></article>]]></description>
-            <link>http://medicalxpress.com/news/2016-06-dose-nature-doctor.html</link>
-            <guid isPermaLink="false">8c5408aa-4054-493c-9b27-e3538c457304</guid>
-            <pubDate>Fri, 08 Jul 2016 13:58:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
