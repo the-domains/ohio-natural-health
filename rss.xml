@@ -4,7 +4,7 @@
         <description><![CDATA[Ohio Natural Health]]></description>
         <link>http://blog.ohionaturalhealth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 15:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 15:37:26 GMT</lastBuildDate>
         <atom:link href="http://blog.ohionaturalhealth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ohio Natural Health]]></title>
@@ -12,6 +12,13 @@
             <link>http://ohionaturalhealth.com/</link>
             <guid isPermaLink="false">11f044bc-a9c4-4f96-8538-043fae1e2173</guid>
             <pubDate>Thu, 12 May 2016 17:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cupping Marks Dot Phelps, Other Team USA Athletes]]></title>
+            <description><![CDATA[<article><h1>Cupping Marks Dot Phelps, Other Team USA Athletes</h1><p>Eagle-eyed Olympic observers probably noticed on Saturday those small, circular marks on the backs and shoulders of several Team USA athletes, including members of the men's gymnastics team and even all-world swimmer Michael Phelps. Those circles are the end product of a healing technique called cupping.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d280c83ec850338701ed275064c564c4/noop.jpg?input=http%3A%2F%2Fmedia.nbcnewyork.com%2Fimages%2F1200*675%2FGettyImages-586840326.jpg"></article>]]></description>
+            <link>http://www.nbcnewyork.com/news/sports/Cupping-Marks-Dot-Phelps-Other-Team-USA-Athletes-389401801.html</link>
+            <guid isPermaLink="false">282fe469-55d8-40e8-933d-6b45a20eb032</guid>
+            <pubDate>Mon, 08 Aug 2016 15:37:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wrestling with Slander]]></title>
@@ -68,13 +75,6 @@
             <link>http://therenegadepharmacist.com/sauna-exposed/?utm_campaign=shareaholic&amp;utm_medium=facebook&amp;utm_source=socialnetwork</link>
             <guid isPermaLink="false">b02e1fe3-611b-4877-805f-89a70d760bfd</guid>
             <pubDate>Tue, 12 Jul 2016 10:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turmeric Lattes Are the Hottest and Coolest New Way to Start Your Day]]></title>
-            <description><![CDATA[<article><h1>Turmeric Lattes Are the Hottest and Coolest New Way to Start Your Day</h1><p>What if you could swap your morning caffeine for something that would jump-start your day, but in a less jumpy way? Enter the turmeric latte, a milk steamer made not with coffee but with the ancient antioxidant and anti-inflammatory superfood root that's lately been taking the world by storm.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/caa78b6e05a06b2143ef5b9128b43bbc/noop.jpg?input=http%3A%2F%2Fwww.bravotv.com%2Fsites%2Fnbcubravotv%2Ffiles%2Ffield_blog_image%2F2016%2F06%2Fthe-feast-tumeric-latte-promote.jpg"></article>]]></description>
-            <link>http://www.bravotv.com/blogs/turmeric-latte-trend-at-la-marzocco-cafe-gratitude-sajen-jamu</link>
-            <guid isPermaLink="false">21832cac-2f90-46fb-8674-5b7471f021e3</guid>
-            <pubDate>Tue, 12 Jul 2016 10:42:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
