@@ -1,7 +1,18 @@
+layout_spectrum: 0.1005171739961952
+typography_spectrum: 0.38638142705895007
+color:
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  brandStrength: 0
+  lightness: 0.9375
+  saturation: 0
+  rhythmicContrast: 0.0023004719987511635
 name: Ohio Natural Health
 favicon: null
-layout_spectrum: 0.24814
-typography_spectrum: 0.4033563525881618
 author:
   name: Jacob Wolf
   email: jacobawolf@gmail.com
@@ -18,15 +29,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
-  brandStrength: 0
-  lightness: 0.9375
-  saturation: 0
-  rhythmicContrast: 0.0023004719987511635
 purpose: []
