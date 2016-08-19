@@ -1,26 +1,26 @@
 ---
+datePublished: '2016-08-19T14:03:24.545Z'
+sourcePath: >-
+  _posts/2016-08-01-president-of-scnm-speaks-on-naturopathic-medicine-principles.md
 isBasedOnUrl: 'https://youtu.be/tYnRRXbw9Ac'
 keywords: []
+author:
+  - name: NaturopathicSCNM
+    url: 'https://www.youtube.com/user/NaturopathicSCNM'
+    avatar: {}
+via: {}
+dateModified: '2016-08-19T14:03:24.175Z'
 title: President of SCNM Speaks on Naturopathic Medicine Principles
-dateModified: '2016-07-30T22:26:16.901Z'
 publisher:
   name: YouTube
   domain: youtu.be
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-author:
-  - name: NaturopathicSCNM
-    url: 'https://www.youtube.com/user/NaturopathicSCNM'
-    avatar: {}
 description: >-
   President of Southwest College of Naturopathic Medicine, Dr. Paul Mittman
   speaks on the Individualized approach to healing through Naturopathic
   Medicine.
-via: {}
-datePublished: '2016-08-01T12:08:06.378Z'
 starred: false
-sourcePath: >-
-  _posts/2016-08-01-president-of-scnm-speaks-on-naturopathic-medicine-principles.md
 inFeed: true
 hasPage: false
 inNav: false
