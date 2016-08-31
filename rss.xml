@@ -4,7 +4,7 @@
         <description><![CDATA[Ohio Natural Health]]></description>
         <link>http://blog.ohionaturalhealth.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 13:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 18:49:18 GMT</lastBuildDate>
         <atom:link href="http://blog.ohionaturalhealth.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ohio Natural Health]]></title>
@@ -12,6 +12,13 @@
             <link>http://ohionaturalhealth.com/</link>
             <guid isPermaLink="false">11f044bc-a9c4-4f96-8538-043fae1e2173</guid>
             <pubDate>Thu, 12 May 2016 17:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sugar has a stronger effect on our brains than we even realised, study finds]]></title>
+            <description><![CDATA[<article><h1>Sugar has a stronger effect on our brains than we even realised, study finds</h1><p>German scientists have discovered that our brains are actively taking in sugar from the blood stream, overturning the long-held assumption that this was a purely passive process. Even more surprising, they also found that it's not our neurons that are responsible for absorbing all that sugar - it's our glial cells, which make up 90 percent of the brain's total cells, and until very recently, have been shrouded in mystery.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/be5e36fa80509b0ac3ffe759d38afbc5/noop.jpg?input=http%3A%2F%2Fwww.sciencealert.com%2Fimages%2Farticles%2Fprocessed%2Fsugar-doughnut_1024.jpg"></article>]]></description>
+            <link>http://www.sciencealert.com/sugar-is-controlling-our-brains-more-than-we-even-realised-study-finds</link>
+            <guid isPermaLink="false">bf705b79-e60e-4cde-886b-b05a19a71c27</guid>
+            <pubDate>Mon, 29 Aug 2016 18:49:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Columbia Researchers Find Biological Explanation for Wheat Sensitivity - Columbia University Medical Center]]></title>
@@ -68,13 +75,6 @@
             <link>http://ndnr.com/botanical-medicine/wrestling-with-slander/</link>
             <guid isPermaLink="false">a2d929d7-8fea-4210-a9b2-3086b24ee64f</guid>
             <pubDate>Fri, 19 Aug 2016 14:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cupping Marks Dot Phelps, Other Team USA Athletes]]></title>
-            <description><![CDATA[<article><h1>Cupping Marks Dot Phelps, Other Team USA Athletes</h1><p>Eagle-eyed Olympic observers probably noticed on Saturday those small, circular marks on the backs and shoulders of several Team USA athletes, including members of the men's gymnastics team and even all-world swimmer Michael Phelps. Those circles are the end product of a healing technique called cupping.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d280c83ec850338701ed275064c564c4/noop.jpg?input=http%3A%2F%2Fmedia.nbcnewyork.com%2Fimages%2F1200*675%2FGettyImages-586840326.jpg"></article>]]></description>
-            <link>http://www.nbcnewyork.com/news/sports/Cupping-Marks-Dot-Phelps-Other-Team-USA-Athletes-389401801.html</link>
-            <guid isPermaLink="false">282fe469-55d8-40e8-933d-6b45a20eb032</guid>
-            <pubDate>Fri, 19 Aug 2016 14:01:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
