@@ -1,9 +1,10 @@
 ---
+datePublished: '2016-08-31T20:05:05.626Z'
+sourcePath: _posts/2016-05-12-ohio-natural-health.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'http://ohionaturalhealth.com/'
-inLanguage: en
+authors: []
+hasPage: false
 keywords:
   - dietary
   - herbal
@@ -15,22 +16,20 @@ keywords:
   - formula
   - diets
   - vitamin
-description: 'Naturopathic, Acupuncture, and Traditional Chinese Medicine provider serving the greater Cleveland Ohio area.'
-datePublished: '2016-05-12T17:16:14.406Z'
-dateModified: '2016-05-12T17:11:51.736Z'
+related: []
 author:
   - name: ''
     url: ''
-related: []
-app_links: []
+dateModified: '2016-08-31T20:05:05.218Z'
 title: Ohio Natural Health
-sourcePath: _posts/2016-05-12-ohio-natural-health.md
-authors: []
-publisher:
-  name: Ohio Natural Health
-  domain: ohionaturalhealth.com
-  url: 'http://ohionaturalhealth.com'
-  favicon: 'http://ohionaturalhealth.com/favicon.ico'
+app_links: []
+publisher: {}
+description: >-
+  Naturopathic, Acupuncture, and Traditional Chinese Medicine provider serving
+  the greater Cleveland Ohio area
+inLanguage: en
+inNav: false
+via: {}
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
