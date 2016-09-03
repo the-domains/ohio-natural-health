@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T20:05:05.626Z'
+datePublished: '2016-08-31T20:05:23.656Z'
 sourcePath: _posts/2016-05-12-ohio-natural-health.md
 inFeed: true
 isBasedOnUrl: 'http://ohionaturalhealth.com/'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-31T20:05:05.218Z'
+dateModified: '2016-08-31T20:05:23.448Z'
 title: Ohio Natural Health
 app_links: []
 publisher: {}
@@ -30,7 +30,7 @@ description: >-
 inLanguage: en
 inNav: false
 via: {}
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
