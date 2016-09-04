@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-31T20:05:24.662Z'
+datePublished: '2016-09-01T13:40:49.030Z'
 sourcePath: _posts/2016-05-12-ohio-natural-health.md
 inFeed: true
-isBasedOnUrl: 'http://ohionaturalhealth.com/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - dietary
   - herbal
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-31T20:05:24.457Z'
+dateModified: '2016-09-01T13:40:48.734Z'
 title: Ohio Natural Health
 app_links: []
 publisher: {}
@@ -31,6 +30,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: true
+url: ohio-natural-health/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
