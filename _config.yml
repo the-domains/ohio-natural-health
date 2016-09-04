@@ -27,10 +27,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Ohio Natural Health
-    id: 11f044bc-a9c4-4f96-8538-043fae1e2173
-    type: content
 favicon: null
 title: Ohio Natural Health
 purpose: []
